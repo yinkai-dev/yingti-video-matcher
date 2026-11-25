@@ -1,0 +1,52 @@
+{
+  "impact": {
+    "video": "motion",
+    "start": 0,
+    "end": 27
+  },
+  "range": {
+    "video": "motion",
+    "start": 27,
+    "end": 56
+  },
+  "slopeflight": {
+    "video": "motion",
+    "start": 56,
+    "end": 86
+  },
+  "smooth": {
+    "video": "incline",
+    "start": 0,
+    "end": 26
+  },
+  "rough": {
+    "video": "incline",
+    "start": 26,
+    "end": 55
+  },
+  "up": {
+    "video": "incline",
+    "start": 55,
+    "end": 82
+  },
+  "series": {
+    "video": "circuit",
+    "start": 0,
+    "end": 26
+  },
+  "parallel": {
+    "video": "circuit",
+    "start": 26,
+    "end": 52
+  },
+  "stick": {
+    "video": "momentum",
+    "start": 0,
+    "end": 30
+  },
+  "range_alt": {
+    "video": "experiment",
+    "start": 0,
+    "end": 29
+  }
+}
